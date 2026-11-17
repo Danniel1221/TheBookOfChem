@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd">
+<CDXML BondLength="30" LabelFont="3" CaptionFont="4" Name="The Book of Chem — starter structures">
+  <page id="1" Width="612" Height="792">
+    <t id="2" p="20 24">THE BOOK OF CHEM — ESTRUCTURAS DE ESTUDIO</t>
+    <t id="3" p="20 42">Archivo inicial editable · Abrir en ChemDraw y exportar a SVG/PNG</t>
+    <fragment id="10" BoundingBox="30 80 170 145">
+      <n id="11" p="55 110" Element="6"/><n id="12" p="85 110" Element="6"/>
+      <n id="13" p="115 110" Element="6"/><n id="14" p="145 110" Element="6"/>
+      <b id="15" B="11" E="12" Order="1"/><b id="16" B="12" E="13" Order="1"/><b id="17" B="13" E="14" Order="1"/>
+      <t id="18" p="30 150">Alcano: cadena de cuatro carbonos (butano)</t>
+    </fragment>
+    <fragment id="20" BoundingBox="220 80 350 145">
+      <n id="21" p="235 110" Element="6"/><n id="22" p="265 110" Element="6"/>
+      <b id="23" B="21" E="22" Order="2"/>
+      <t id="24" p="220 150">Alqueno: enlace doble C=C (eteno)</t>
+    </fragment>
+    <fragment id="30" BoundingBox="390 80 520 145">
+      <n id="31" p="405 110" Element="6"/><n id="32" p="435 110" Element="6"/>
+      <b id="33" B="31" E="32" Order="3"/>
+      <t id="34" p="390 150">Alquino: enlace triple C≡C (etino)</t>
+    </fragment>
+    <fragment id="40" BoundingBox="70 230 220 370">
+      <n id="41" p="145 250" Element="6"/><n id="42" p="175 267.32" Element="6"/>
+      <n id="43" p="175 302.0" Element="6"/><n id="44" p="145 319.32" Element="6"/>
+      <n id="45" p="115 302.0" Element="6"/><n id="46" p="115 267.32" Element="6"/>
+      <b id="47" B="41" E="42" Order="1"/><b id="48" B="42" E="43" Order="2"/>
+      <b id="49" B="43" E="44" Order="1"/><b id="50" B="44" E="45" Order="2"/>
+      <b id="51" B="45" E="46" Order="1"/><b id="52" B="46" E="41" Order="2"/>
+      <t id="53" p="70 350">Anillo aromático: representación de Kekulé</t>
+    </fragment>
+    <fragment id="60" BoundingBox="280 230 440 370">
+      <n id="61" p="300 280" Element="6"/><n id="62" p="330 280" Element="8"/>
+      <n id="63" p="360 280" Element="6"/><n id="64" p="390 280" Element="1"/>
+      <b id="65" B="61" E="62" Order="1"/><b id="66" B="62" E="63" Order="1"/>
+      <b id="67" B="63" E="64" Order="1"/>
+      <t id="68" p="280 320">Alcohol / enlace C—O (fragmento ilustrativo)</t>
+    </fragment>
+    <fragment id="70" BoundingBox="80 440 250 560">
+      <n id="71" p="110 490" Element="6"/><n id="72" p="140 490" Element="8"/>
+      <n id="73" p="170 490" Element="1"/><n id="74" p="110 520" Element="6"/>
+      <b id="75" B="71" E="72" Order="2"/><b id="76" B="72" E="73" Order="1"/><b id="77" B="71" E="74" Order="1"/>
+      <t id="78" p="80 550">Carbonilo: C=O polarizado</t>
+    </fragment>
+    <fragment id="80" BoundingBox="300 440 500 560">
+      <n id="81" p="330 490" Element="6"/><n id="82" p="360 490" Element="8"/>
+      <n id="83" p="330 520" Element="7"/><n id="84" p="300 490" Element="6"/>
+      <b id="85" B="81" E="82" Order="1"/><b id="86" B="81" E="83" Order="1"/><b id="87" B="81" E="84" Order="1"/>
+      <t id="88" p="300 550">Grupo amino unido a carbono (esquema)</t>
+    </fragment>
+    <t id="90" p="20 650">Nota: los enlaces y átomos son ejemplos de práctica. Completar hidrógenos, cargas, geometría y estereoquímica en ChemDraw antes de publicar.</t>
+  </page>
+</CDXML>
